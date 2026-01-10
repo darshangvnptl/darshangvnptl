@@ -6,20 +6,28 @@ I am a **Cybersecurity Enthusiast** and **Security Researcher** dedicated to bui
 
 ### 🛡️ What I do
 - **Security Research:** Focusing on vulnerability assessment and the intersection of AI and Security.
+- **Application Security:** 
 - **AI Safety:** Contributor to research on debugging Deep Reinforcement Learning (DRL) programs (check out [RLExplorer](https://github.com/your-repo-link)).
 - **Full-Stack Development:** Building scalable, secure applications using modern web technologies.
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, C++, JavaScript (Node.js)
-- **Security:** Pentesting, OWASP, Network Security, Malware Analysis
-- **AI/ML:** TensorFlow, PyTorch, Reinforcement Learning
-- **DevOps:** Git, Docker, Linux
+- **Security:** Application Security, Product Security, DevSecOps
+- **DevOps:** Git, Docker, GitHub Actions, Jenkins
+- **Threat Modeling:** STRIDE
+- **SAST:** CodeQL,Fortify,Semgrep
+- **DAST:** StacHawk,BurpSuite
+- **Container Scanning:** Trivy
+- **Vulnerability Management:** DefectDojo
+- **Cloud:** AWS, Azure
+- **Cloud Scanning:** Prowler, ScoutSuite
 
 ### 📊 Recent Research & Projects
-- **RLExplorer:** Automated monitoring and diagnosis for DRL systems.
-- **SafeAlert:** Disaster-management platform for flood and landslide prediction.
+- **TextGenie:** TextGenie is designed as an intelligent assistant that can answer questions and summarize information from your personal or work-related document collections.
+
+### 📈 GitHub Stats
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanpatilsec&show_icons=true&theme=radical)
 
 ---
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/darshanpatilsec/)
-- [Portfolio/Website](https://yourwebsite.com)
