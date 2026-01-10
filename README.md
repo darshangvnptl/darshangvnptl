@@ -1,7 +1,6 @@
 # 👨🏻‍💻 Darshan Patil
 
 **`Application Security Engineer`**
-# Hi there, I'm Darshan Patil 👋
 
 I am a **Cybersecurity Enthusiast** and **Security Researcher** dedicated to building and securing the future of technology. My work bridges the gap between software engineering, AI safety, and robust security protocols.
 
