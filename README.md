@@ -2,7 +2,7 @@
 
 **`Application Security Engineer`**
 
-I am a **Cybersecurity Enthusiast** and **Security Researcher** dedicated to building and securing the future of technology. My work bridges the gap between software engineering, AI safety, and robust security protocols.
+I am a **Cybersecurity Professional** working as an **Application Security Engineering** dedicated to building and securing the future in the FinTech space. My work bridges the gap between software engineering, AI safety, and robust security protocols.
 
 ### 🛡️ What I do
 - **Security Research:** Focusing on vulnerability assessment and the intersection of AI and Security.
