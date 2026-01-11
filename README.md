@@ -7,7 +7,7 @@ I am a **Cybersecurity Professional** working as an **Application Security Engin
 ### 🛡️ What I do
 - **Security Research:** Focusing on vulnerability assessment and the intersection of AI and Security.
 - **Application Security:** 
-- **AI Safety:** Contributor to research on debugging Deep Reinforcement Learning (DRL) programs (check out [RLExplorer](https://github.com/your-repo-link)).
+- **AI Safety:** Contributor to research on debugging Deep Reinforcement Learning (DRL) programs.
 - **Full-Stack Development:** Building scalable, secure applications using modern web technologies.
 
 ### 🛠️ Tech Stack
