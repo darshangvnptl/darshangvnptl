@@ -6,8 +6,9 @@ I am a **Cybersecurity Professional** working as an **Application Security Engin
 
 ### 🛡️ What I do
 - **Security Research:** Focusing on vulnerability assessment and the intersection of AI and Security.
-- **Application Security:** 
-- **AI Safety:** Contributor to research on debugging Deep Reinforcement Learning (DRL) programs.
+- **Application Security:** Securing Applications at FinTech, a
+- **DevSecOps:** Securing devops pipeline.
+- **AI Security:** Building and Securing Gen AI, RAG based and Agentic Applications
 - **Full-Stack Development:** Building scalable, secure applications using modern web technologies.
 
 ### 🛠️ Tech Stack
