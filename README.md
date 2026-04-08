@@ -11,7 +11,7 @@ I am a **Cybersecurity Professional** working as an **Application Security Engin
 - **AI Security:** Building and Securing Gen AI, RAG based and Agentic Applications
 - **Full-Stack Development:** Building scalable, secure applications using modern web technologies.
 
-### 🛠️ Tech Stack
+### 🛠️ Security Stack
 - **Languages:** Python, Java, C++, JavaScript (Node.js)
 - **Security:** Application Security, Product Security, DevSecOps
 - **DevOps:** Git, Docker, GitHub Actions, Jenkins
